@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # luotest
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+=======
+# flutter_Chat
+用flutter制作的一款聊天软件
+>>>>>>> 0231a250596edc0272f5e3344148649c2232e927
