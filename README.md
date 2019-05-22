@@ -1,21 +1,9 @@
-<<<<<<< HEAD
-# luotest
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
-=======
 # flutter_Chat
 用flutter制作的一款聊天软件
->>>>>>> 0231a250596edc0272f5e3344148649c2232e927
+
+![首页](https://raw.githubusercontent.com/lshaoshuai/springcloud-config/master/images/chat1.png)
+
+![首页](https://raw.githubusercontent.com/lshaoshuai/springcloud-config/master/images/chat2.png)
+
+![聊天页面](https://raw.githubusercontent.com/lshaoshuai/springcloud-config/master/images/chat3.png)
+
